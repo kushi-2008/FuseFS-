@@ -1,0 +1,4 @@
+fusefs
+*.o
+*.out
+
